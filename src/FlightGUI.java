@@ -8,6 +8,8 @@
  *
  * @author x16399856
  */
+
+//CONNOR, LAUREN, JAKE
 public class FlightGUI extends javax.swing.JFrame {
 
     /**
